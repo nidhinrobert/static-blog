@@ -1,0 +1,17 @@
+.footer{
+    background-color: #616161;
+}
+.pagin{
+    padding: 12px 24px;
+    color: #fff!important;
+    background-color: #000!important
+}
+.footerButton{
+    padding: 30px;
+    display: flex;
+    gap: 20px;
+}
+.pagin:hover{
+    color: #000!important;
+    background-color: #ccc!important;
+}

@@ -1,0 +1,26 @@
+.blogtags{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 50px;
+}
+
+.blogtags h4{
+    padding: 1rem;
+}
+.tag{
+    background-color: white;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.tag li{
+    list-style: none;
+    padding: 3px;
+    background-color:#f1f1f1;
+    width: fit-content;
+    font-size: 15px;
+}
+.tag li:hover{
+    color: white;
+    background-color: black;
+}

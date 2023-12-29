@@ -1,0 +1,20 @@
+.posting{
+   display: flex;
+   gap: 25px; 
+   padding: 20px;
+   border-bottom: 1px solid #ddd;
+   background-color: white;
+}
+.posting:hover{
+    background-color: #ccc;
+}
+
+.large{
+    font-size: 18px;
+}
+.small{
+    font-size: 15px;
+}
+.Postingimage{
+    width: 50px;
+}

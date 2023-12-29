@@ -1,0 +1,38 @@
+.opacity{
+    opacity: 0.60;
+}
+h3{
+font-size: 24px;
+}
+h5{
+    font-weight: 400;
+    font-size: 18px;
+}
+.card{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.read{
+    padding: 10px;
+    background-color: transparent!important;
+    color: black!important;
+    border: 1px solid black!important;
+}
+p{
+    font-size: 14px;
+    margin-top: 11px;
+}
+.cardFooter{
+    display: flex;
+    justify-content: space-between;
+}
+.cardFooter p{
+    margin-top: 12px;
+}
+.badge{
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}

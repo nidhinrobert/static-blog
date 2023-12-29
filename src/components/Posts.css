@@ -1,0 +1,13 @@
+.posts h4{
+    font-weight: 400;
+}
+.posts{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 40px;
+}
+
+
+.postText{
+    padding: 22px;
+}
+
